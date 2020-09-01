@@ -81,8 +81,15 @@
   {
     "id": 12,
     "name": "Anisubhra Sarkar",
-    "username": "Anisubra.Sarkar",
+    "username": "anisubra.sarkar",
     "email": "anisubra.sarkar@gmail.com",
+    "skills: "HTML CSS JavaScript"
+  },
+  {
+    "id": 13,
+    "name": "Soumen Maity",
+    "username": "soumen.maity",
+    "email": "soumen.maity@gmail.com",
     "skills: "HTML CSS JavaScript"
   }
 ]
