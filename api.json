@@ -3,93 +3,80 @@
     "id": 1,
     "name": "Anik Das",
     "username": "anikdas",
-    "email": "ssdas1993@gmail.com",
-    "skills: "HTML CSS JavaScript"
+    "email": "ssdas1993@gmail.com"
   },
   {
     "id": 2,
     "name": "Ervin Howell",
     "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "skills: "HTML CSS JavaScript"
+    "email": "Shanna@melissa.tv"
     
   },
   {
     "id": 3,
     "name": "Clementine Bauch",
     "username": "Samantha",
-    "email": "Nathan@yesenia.net",
-    "skills: "HTML CSS JavaScript"
+    "email": "Nathan@yesenia.net"
   },
   {
     "id": 4,
     "name": "Patricia Lebsack",
     "username": "Karianne",
-    "email": "Julianne.OConner@kory.org",
-    "skills: "HTML CSS JavaScript"
+    "email": "Julianne.OConner@kory.org"
   },
   {
     "id": 5,
     "name": "Chelsey Dietrich",
     "username": "Kamren",
-    "email": "Lucio_Hettinger@annie.ca",
-    "skills: "HTML CSS JavaScript"
+    "email": "Lucio_Hettinger@annie.ca"
   },
   {
     "id": 6,
     "name": "Mrs. Dennis Schulist",
     "username": "Leopoldo_Corkery",
-    "email": "Karley_Dach@jasper.info",
-    "skills: "HTML CSS JavaScript"
+    "email": "Karley_Dach@jasper.info"
   },
   {
     "id": 7,
     "name": "Kurtis Weissnat",
     "username": "Elwyn.Skiles",
-    "email": "Telly.Hoeger@billy.biz",
-    "skills: "HTML CSS JavaScript"
+    "email": "Telly.Hoeger@billy.biz"
   },
   {
     "id": 8,
     "name": "Nicholas Runolfsdottir V",
     "username": "Maxime_Nienow",
-    "email": "Sherwood@rosamond.me",
-    "skills: "HTML CSS JavaScript"
+    "email": "Sherwood@rosamond.me"
   },
   {
     "id": 9,
     "name": "Glenna Reichert",
     "username": "Delphine",
-    "email": "Chaim_McDermott@dana.io",
-    "skills: "HTML CSS JavaScript"
+    "email": "Chaim_McDermott@dana.io"
   },
   {
     "id": 10,
     "name": "Clementina DuBuque",
     "username": "Moriah.Stanton",
-    "email": "Rey.Padberg@karina.biz",
-    "skills: "HTML CSS JavaScript"
+    "email": "Rey.Padberg@karina.biz"
   },
   
   {
     "id": 11,
     "name": "Swapnasubham Das",
     "username": "Dante.Da",
-    "email": "swapnasubham.das@aot.edu.in",
-    "skills: "HTML CSS JavaScript"
+    "email": "swapnasubham.das@aot.edu.in"
   },
   {
     "id": 12,
     "name": "Anisubhra Sarkar",
     "username": "anisubra.sarkar",
-    "email": "anisubra.sarkar@gmail.com",
-    "skills: "HTML CSS JavaScript"
+    "email": "anisubra.sarkar@gmail.com"
   },
   {
     "id": 13,
     "name": "Soumen Maity",
     "username": "soumen.maity",
-    "email": "soumen.maity@gmail.com",
-    "skills: "HTML CSS JavaScript"
+    "email": "soumen.maity@gmail.com"
   }
 ]
